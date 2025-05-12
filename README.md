@@ -96,9 +96,9 @@ sudo ufw delete allow 4242
 
 
 <img width="1277" alt="308323720-8898de34-fcff-467e-8b62-280091b9deb0" src="https://github.com/user-attachments/assets/d52fc9b4-3fb0-43bd-92e0-f54f300438fe" />
-<img width="1277" alt="Screen Shot 2024-02-27 at 9 15 40 PM" src="https://github.com/MAROUANE-ED-DAHRAOUI/Born2beroot/assets/123004073/86ab5cbd-cbf7-4080-bd97-7ccb05a65f90">
-<img width="1275" alt="Screen Shot 2024-02-27 at 9 19 22 PM" src="https://github.com/MAROUANE-ED-DAHRAOUI/Born2beroot/assets/123004073/8bc04d0e-c92a-4363-9ec3-3b6aa5c73146">
-<img width="1275" alt="Screen Shot 2024-02-27 at 9 20 14 PM" src="https://github.com/MAROUANE-ED-DAHRAOUI/Born2beroot/assets/123004073/838cf0aa-917a-4d5f-bc4c-61157ff7dc2e">
+<img width="1277" alt="308324652-86ab5cbd-cbf7-4080-bd97-7ccb05a65f90" src="https://github.com/user-attachments/assets/899b9cd4-7f82-4e58-bb09-2ab3169819b8" />
+<img width="1275" alt="308325885-8bc04d0e-c92a-4363-9ec3-3b6aa5c73146" src="https://github.com/user-attachments/assets/3ab71990-a828-41c9-a5c5-dc9a5a47620f" />
+<img width="1275" alt="308326031-838cf0aa-917a-4d5f-bc4c-61157ff7dc2e" src="https://github.com/user-attachments/assets/5e9ebdb8-001e-4643-a286-b98043a1569e" />
 
 **Now u can connect with ssh**
 ```bash
